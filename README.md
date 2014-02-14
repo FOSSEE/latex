@@ -1,6 +1,5 @@
 README
 ======
---------------------------------------------------------------------------------
 
 This repository contains various latex files of **FOSSEE** project.
 
